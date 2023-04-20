@@ -1,8 +1,8 @@
 .cabeçalho {
-    background-color: rgb(31, 9, 155) ;
+    background-color: rgb(9, 155, 58) ;
 }
-.h1-cabeçalho-título1 {
-    color: rgb(252, 255, 72);
+.cabeçalho-título1 {
+    color: rgb(72, 75, 255);
 }
 .cabeçalho-título2 {
     color: rgba(253, 139, 46, 0.877);
