@@ -1,0 +1,20 @@
+.cabeçalho {
+    background-color: rgb(31, 9, 155) ;
+}
+.h1-cabeçalho-título1 {
+    color: rgb(252, 255, 72);
+}
+.cabeçalho-título2 {
+    color: rgba(253, 139, 46, 0.877);
+}
+p {
+    color: rgb(38, 248, 18);
+}
+li {
+    color: aliceblue;
+}
+Página-Principal {
+    color: aliceblue;
+}
+Quem-Somos {
+    color: aliceblue;
