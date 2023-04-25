@@ -1,13 +1,10 @@
 .cabeçalho {
-    display: flex;
     background-color: rgb(9, 155, 58) ;
 }
 .cabeçalho-título1 {
-    font-size: 100px;
     color: rgb(72, 75, 255);
 }
 .cabeçalho-título2 {
-    font-size: 100px;
     color: rgba(253, 139, 46, 0.877);
 }
 p {
